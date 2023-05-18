@@ -1,4 +1,4 @@
-<h2>Hi, I'm Rao Hamdi ! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h2>Hi, I'm Hamdi Abidi ! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <p><em>Full-Stack Developer at <a href="https://afi.team/team/">Alipay AFI</a> . </em>
 
